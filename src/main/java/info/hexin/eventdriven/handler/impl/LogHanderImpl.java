@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 日志操作实现
  * @author ydhexin
- *
+ * 
  */
 public class LogHanderImpl implements Handler {
 
